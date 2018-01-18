@@ -1,0 +1,2 @@
+# tmux
+Tips for tmux 
