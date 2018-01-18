@@ -1,2 +1,2 @@
 # tmux
-Tips for tmux 
+Installation and configuration of TMUX 
